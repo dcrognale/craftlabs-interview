@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>craftLabstest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-craft-test</version>
 	<packaging>war</packaging>
 	<name>craftLabstest</name>
 	<description>CraftLabs Interview test</description>
